@@ -1,3 +1,3 @@
 # Weather-Prediction
 
-Detail of this project is in the file about (Space Weather)
+full details of this project are in the file about (Space Weather)
